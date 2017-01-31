@@ -1,7 +1,14 @@
 ### vim config
+  - copy vimrc from this repo
   - install pathogen
   - `cd ~/.vim/bundle` 
-  - install vim-coffee-script (many available)
+  - install vim-coffee-script: `git clone https://github.com/kchmck/vim-coffee-script.git`
   - install vim-cjsx: `git clone https://github.com/mtscout6/vim-cjsx.git` 
   - install vim-javascript: `git clone https://github.com/pangloss/vim-javascript.git` 
   - install vim-stylus: `git clone git://github.com/wavded/vim-stylus.git`
+  - install vim-go: `git clone https://github.com/fatih/vim-go.git`
+  - install vim-json: `git clone https://github.com/elzr/vim-json.git`
+  - install vim-scriptease: `git clone git://github.com/tpope/vim-scriptease.git`
+  - install vim-sensible: `git clone git://github.com/tpope/vim-sensible.git`
+  - install nginx.vim: `git clone https://github.com/vim-scripts/nginx.vim`
+  - copy dockerfile.vim from this repo to ~/.vim/bundle
