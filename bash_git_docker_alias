@@ -27,3 +27,6 @@ alias gpl='git pull'
 alias grh='git reset HEAD'
 alias grm='git rm'
 alias gs='git status'
+
+# prompt 
+export PROMPT_COMMAND='echo -ne "\033]0;${PWD/#$HOME/~}\007"'
