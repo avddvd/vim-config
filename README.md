@@ -5,6 +5,7 @@
   - run `./prep_vim.sh` or install following plugins manually
   - install vim-coffee-script: `git clone https://github.com/kchmck/vim-coffee-script.git`
   - install vim-cjsx: `git clone https://github.com/mtscout6/vim-cjsx.git` 
+  - install vim-jsx: `git clone https://github.com/mxw/vim-jsx.git` 
   - install vim-javascript: `git clone https://github.com/pangloss/vim-javascript.git` 
   - install vim-stylus: `git clone git://github.com/wavded/vim-stylus.git`
   - install vim-go: `git clone https://github.com/fatih/vim-go.git`

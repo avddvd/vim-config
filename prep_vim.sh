@@ -3,6 +3,7 @@
 repos="
 https://github.com/kchmck/vim-coffee-script.git
 https://github.com/mtscout6/vim-cjsx.git 
+https://github.com/mxw/vim-jsx.git
 https://github.com/pangloss/vim-javascript.git 
 git://github.com/wavded/vim-stylus.git
 https://github.com/fatih/vim-go.git
