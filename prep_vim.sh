@@ -9,7 +9,8 @@ https://github.com/fatih/vim-go.git
 https://github.com/elzr/vim-json.git
 git://github.com/tpope/vim-scriptease.git
 git://github.com/tpope/vim-sensible.git
-https://github.com/vim-scripts/nginx.vim"
+https://github.com/vim-scripts/nginx.vim
+https://github.com/scrooloose/nerdtree.git"
 
 cd ~/.vim/bundle
 
