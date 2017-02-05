@@ -2,6 +2,7 @@
   - copy vimrc from this repo
   - install pathogen
   - `cd ~/.vim/bundle` 
+  - run `./prep_vim.sh` or install following plugins manually
   - install vim-coffee-script: `git clone https://github.com/kchmck/vim-coffee-script.git`
   - install vim-cjsx: `git clone https://github.com/mtscout6/vim-cjsx.git` 
   - install vim-javascript: `git clone https://github.com/pangloss/vim-javascript.git` 
