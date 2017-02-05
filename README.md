@@ -12,3 +12,5 @@
   - install vim-sensible: `git clone git://github.com/tpope/vim-sensible.git`
   - install nginx.vim: `git clone https://github.com/vim-scripts/nginx.vim`
   - copy dockerfile.vim from this repo to ~/.vim/bundle
+  - git autocomplete: http://code-worrier.com/blog/autocomplete-git/
+  - git status on promp: http://code-worrier.com/blog/git-branch-in-bash-prompt/
