@@ -38,6 +38,9 @@ curl -o ~/.git-prompt.sh https://raw.githubusercontent.com/git/git/master/contri
 
 curl -o ~/.git-completion.sh https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 
+# download iTerm2 shell integration
+curl -L https://iterm2.com/misc/install_shell_integration.sh | bash
+
 # copy bash profile
 cp bash_git_docker_alias  ~/.bash_profile
 
