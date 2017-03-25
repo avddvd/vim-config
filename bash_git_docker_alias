@@ -27,6 +27,7 @@ alias gpl='git pull'
 alias grh='git reset HEAD'
 alias grm='git rm'
 alias gs='git status'
+alias gi='$(copy_templ) && git init'
 
 # prompt 
 
@@ -60,3 +61,10 @@ function title {
     fi
 }
 title
+
+# copy pr, issue templates to git repo
+function copy_templ {
+  if [ -d ~/.github ]; then
+    cp -r ~/.github . 
+  fi
+}

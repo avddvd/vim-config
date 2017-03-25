@@ -26,3 +26,7 @@
 ### iTerm2 config
   - tabset colors: https://www.npmjs.com/package/iterm2-tab-set
   - iterm2 shell int'ion: https://www.iterm2.com/documentation-shell-integration.html
+
+### git templates config
+  - git commit template: https://github.com/sparkbox/standard/tree/master/style/git
+  - git pr, issue templates: https://www.talater.com/open-source-templates/#/page/1
