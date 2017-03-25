@@ -30,3 +30,6 @@
 ### git templates config
   - git commit template: https://github.com/sparkbox/standard/tree/master/style/git
   - git pr, issue templates: https://www.talater.com/open-source-templates/#/page/1
+
+### TODO
+- [] git hooks
