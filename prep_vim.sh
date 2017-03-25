@@ -46,3 +46,6 @@ cp bash_git_docker_alias  ~/.bash_profile
 
 # install brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# git pr, issue templates
+cp -r ./github_templates ~/.github
