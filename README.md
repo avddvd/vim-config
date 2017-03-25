@@ -16,8 +16,13 @@
   - install nerdtree: `git clone https://github.com/scrooloose/nerdtree.git`
   - copy dockerfile.vim from this repo to ~/.vim/bundle
 
-### bash, iTerm2 config
+### bash + git config
   - git autocomplete: http://code-worrier.com/blog/autocomplete-git/
   - git status on prompt: http://code-worrier.com/blog/git-branch-in-bash-prompt/
+  - git commit template: https://github.com/sparkbox/standard/tree/master/style/git
+  - copy git-commit-message to ~/.git-commit-message and do
+  - git config --global commit.template "~/.git-commit-message"
+
+### iTerm2 config
   - tabset colors: https://www.npmjs.com/package/iterm2-tab-set
   - iterm2 shell int'ion: https://www.iterm2.com/documentation-shell-integration.html
