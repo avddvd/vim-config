@@ -17,6 +17,7 @@
   - copy dockerfile.vim from this repo to ~/.vim/bundle
 
 ### bash + git config
+  - git config --global commit.template "path/to/.git-commit-message"
   - git autocomplete: http://code-worrier.com/blog/autocomplete-git/
   - git status on prompt: http://code-worrier.com/blog/git-branch-in-bash-prompt/
   - git commit template: https://github.com/sparkbox/standard/tree/master/style/git
