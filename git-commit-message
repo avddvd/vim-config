@@ -19,9 +19,15 @@
 # Fix #1. note this marks the item as accepted in Sprintly
 # Closes #1 and #2. note this marks the item as accepted in Sprintly
 
+# ---------------------------------------------------------------------------------
+# Jira Issue Processing
+# ISSUE_KEY #comment This is a comment
+# ISSUE_KEY #done 
+# ---------------------------------------------------------------------------------#
+
 # ** Funtip **
-# Work hard, play hard!  Consider prefixing your commit messages with a relevant emoji for 
-# great good:
+# Work hard, play hard!  
+# Consider prefixing your commit messages with an emoji for great good:
 #
 #   :art: `:art:` when improving the format/structure of the code
 #   :racehorse: `:racehorse:` when improving performance
@@ -29,7 +35,7 @@
 #   :memo: `:memo:` when writing docs
 #   :penguin: `:penguin:` when fixing something on Linux
 #   :apple: `:apple:` when fixing something on Mac OS
-#   :checkered_flag: `:checkered_flag:` when fixing something on Windows
+#   :checkered_flag: `:checkered_flag:` when bumping version number
 #   :bug: `:bug:` when fixing a bug
 #   :fire: `:fire:` when removing code or files
 #   :green_heart: `:green_heart:` when fixing the CI build
@@ -38,9 +44,8 @@
 #   :arrow_up: `:arrow_up:` when upgrading dependencies
 #   :arrow_down: `:arrow_down:` when downgrading dependencies
 #   :shirt: `:shirt:` when removing linter warnings
-
-# ---------------------------------------------------------------------------------
-# Jira Issue Processing
-# ISSUE_KEY #comment This is a comment
-# ISSUE_KEY #done 
-# ---------------------------------------------------------------------------------#
+#   :construction: `:construction:` Work in Progress
+#   :bulb: `:bulb:` New Idea
+#   :bangbang: `:bangbang:` DEV Certified (No QA Needed)
+#   :flashlight: `:flashlight:` when adding logging
+#   :mute: `:mute:` when reducing logging
