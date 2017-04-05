@@ -32,4 +32,4 @@
   - git pr, issue templates: https://www.talater.com/open-source-templates/#/page/1
 
 ### TODO
-- [] git hooks
+- [ ] git hooks
