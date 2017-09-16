@@ -1,3 +1,7 @@
+## vim8 Mac
+  - `brew isntall vim`
+  - vim-go: git clone https://github.com/fatih/vim-go.git ~/.vim/pack/plugins/start/vim-go
+
 ### vim config
   - copy vimrc from this repo
   - install pathogen
