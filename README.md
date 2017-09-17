@@ -18,6 +18,7 @@
   - install vim-sensible: `git clone git://github.com/tpope/vim-sensible.git`
   - install nginx.vim: `git clone https://github.com/vim-scripts/nginx.vim`
   - install nerdtree: `git clone https://github.com/scrooloose/nerdtree.git`
+  - install python-mode: `git clone https://github.com/python-mode/python-mode.git`
   - copy dockerfile.vim from this repo to ~/.vim/bundle
 
 ### bash + git config

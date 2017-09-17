@@ -11,6 +11,7 @@ https://github.com/elzr/vim-json.git
 git://github.com/tpope/vim-scriptease.git
 git://github.com/tpope/vim-sensible.git
 https://github.com/vim-scripts/nginx.vim
+https://github.com/python-mode/python-mode#how-to-install
 https://github.com/scrooloose/nerdtree.git"
 
 # install pathogen
